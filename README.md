@@ -203,3 +203,11 @@ Here are three validated resume bullets based on the completed work:
 - **SQL Querying & Performance Diagnostics:** *Engineered indexed relational database schema and wrote complex multi-table SQL queries with CTEs and window functions to evaluate hourly peak demand curves, identifying two 2-hour rush periods driving 45% of daily volume and 11.7% cancellations.*
 - **Operational Strategy & Business Reporting:** *Delivered an executive operations report with 8 publication-grade Seaborn visualizations, formulating an hourly delivery-partner allocation matrix and kitchen throttling model projected to cut idle courier time by 54%.*
 
+Dataset Instructions
+
+Download the food delivery dataset from the source linked in the main README.
+
+Place the downloaded CSV file in this folder before running the analysis.
+
+The dataset is not included in this repository.
+
